@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Hb1T91t' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media3.giphy.com/media/M3qcwjFYnobyxG8D6b/giphy.gif?cid=790b7611f9106ee35f4412b185ccc88ab3c6ba08e234033b&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  [peek](https://github.com/phw/peek)
